@@ -1,0 +1,40 @@
+Project Name: Obstacle Detection and Avoidance Robot
+
+HARDWARE COMPONENTS
+-------------------
+1. Arduino Uno Microcontroller
+2. Ultrasonic Sensor (HC-SR04)
+3. DC Gear Motors (4 Nos)
+4. Robot Wheels (4 Nos)
+5. L293D Motor Driver / Adafruit Motor Shield
+6. Servo Motor
+7. HC-05 Bluetooth Module
+8. Li-ion Batteries (18650, 3.7V – 2 Nos)
+9. Battery Holder
+10. Power Switch
+11. Chassis / Foam Board / Cardboard Base (18 x 12 cm)
+12. Jumper Wires (Male-to-Male)
+13. Jumper Wires (Male-to-Female)
+14. Jumper Wires (Female-to-Female)
+15. Connecting Wires
+16. Male Berg Strips
+17. USB Type-B Cable (for Arduino)
+18. Soldering Iron and Solder Wire
+19. Hot Glue Gun and Glue Sticks
+20. Screwdriver Set
+21. Cutter / Wire Stripper
+
+SOFTWARE REQUIREMENTS
+---------------------
+1. Arduino IDE
+2. Embedded C / C++ Programming Language
+3. Bluetooth Control Mobile Application
+
+OPTIONAL / FUTURE ENHANCEMENTS
+------------------------------
+1. IR Sensors
+2. Camera Module
+3. LiDAR Sensor
+4. GPS Module
+5. IoT Platform (Cloud Integration)
+6. Machine Learning / AI Modules
