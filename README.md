@@ -1,4 +1,3 @@
-# Obstacle-Detection-and-Avoidance-Robot
 # Obstacle Detection and Avoidance Robot 🤖🚗
 
 ## 📌 Project Overview
