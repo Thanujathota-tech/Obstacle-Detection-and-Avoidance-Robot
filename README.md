@@ -30,6 +30,7 @@ manual control using Bluetooth communication.
 - **Documentation/** → Final project report & presentation
 - **Code/** → Arduino source code
 - **Images/** → Hardware & robot images
+- **Demonstration** → working of Obstacle detection robot
 - **Resources/** → Components list
 
 ## ⚙️ Working Principle
